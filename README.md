@@ -21,7 +21,7 @@
   - 2nd, LF Marketing Planning Competition, LF, 2 months (June, 2013 ~ July, 2013)
   
 - 🤔 Skills: Python, SQL, Pandas, Keras, Scikit-learn, NLP, RecSys
-- ⚡ Interests:
+- ⚡ Interests: Contents, Retail, Travel
 - 📫 Contacts: thinpig99@gmail.com
 
 
