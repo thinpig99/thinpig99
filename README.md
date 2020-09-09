@@ -11,6 +11,7 @@
 - 🌱 Educations:
   - Master's Degree, **Data Science**, Yonsei Graduate School of Information, 2 years (Mar, 2020 ~ )
   - Bachelor's degree, **Communication**, Jeonnam National University, 6 years 6 months (Mar, 2009 ~ Aug, 2016)
+  - Academy, **IoT Software Developer Course**, SMHRD, 3 months (Sep, 2016 ~ Nov, 2016)
 
 - 👯 Experiences:
   - KT, Sales Dept, Marketing Manager (Full-Time), 3 years 2 months (Jan, 2017 ~ Feb, 2020)
@@ -18,7 +19,6 @@
   
 - 💬 Acomplishments:
   - 3rd(0.7%), Jeju Credit Card Competition, Dacon, 2 months (June, 2020 ~ July, 2020)
-  - 2nd, LF Marketing Planning Competition, LF, 2 months (June, 2013 ~ July, 2013)
   
 - 🤔 Skills: Python, SQL, Pandas, Keras, Scikit-learn, NLP, RecSys
 - ⚡ Interests: Contents, Retail, Travel
