@@ -7,8 +7,8 @@
   - Language: **Korean**
   
 - 👯 Experiences:
-  - KT, Sales Dept, Marketing Manager (Full-Time), 3 years 2 months (Jan, 2017 ~ Feb, 2020)
-  - LG U+, Sales Dept, Channel Manager (Intern), 2 months (July, 2016 ~ Aug, 2016)
+  - KT, Customer Dept, Marketing Manager (Full-Time), 3 years 2 months (Jan, 2017 ~ Feb, 2020)
+  - LG U+, Personal Service Dept, Channel Manager (Intern), 2 months (July, 2016 ~ Aug, 2016)
 
 - 🌱 Educations:
   - Master's Degree, **Data Science**, Yonsei Graduate School of Information, 2 years (Mar, 2020 ~ )
