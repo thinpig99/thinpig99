@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-### Data Analyst, Wyatt Shin
+### 👋 Hi there, I am Wyatt, Data Analyst.
 
 - 🔭 Profile:
   - Full Name: **Wyatt Wangsoo Shin**
