@@ -6,13 +6,13 @@
 
 </div>
 
-Here are some ideas to get you started:
+Let me introduce myself!
 
-- 🔭 Profile
-- 🌱 Educations
-- 👯 Experiences
-- 🤔 Skills
-- 💬 Acomplishments
-- ⚡ Interests
-- 📫 Contacts
+- 🔭 Profile:
+- 🌱 Educations:
+- 👯 Experiences:
+- 🤔 Skills:
+- 💬 Acomplishments:
+- ⚡ Interests:
+- 📫 Contacts:
 
