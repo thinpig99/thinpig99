@@ -6,16 +6,16 @@
 
 </div>
 
-
+### Data Analyst, Wyatt Shin
 
 - 🔭 Profile:
-  - Name: Wyatt Wangsoo Shin
-  - Region: Seoul, Korea
-  - Language: Korean
+  - Full Name: **Wyatt Wangsoo Shin**
+  - Region: **Seoul**, Korea
+  - Language: **Korean**
   
 - 🌱 Educations:
-  - Master's Degree, Data Science, Yonsei Graduate School of Information, 2 years(Mar, 2020 ~ )
-  - Bachelor's degree, Communication, Jeonnam National University, 6 years 6 months(Mar, 2009 ~ Aug, 2016)
+  - Master's Degree, **Data Science**, Yonsei Graduate School of Information, 2 years(Mar, 2020 ~ )
+  - Bachelor's degree, **Communication**, Jeonnam National University, 6 years 6 months(Mar, 2009 ~ Aug, 2016)
 
 - 👯 Experiences:
   - KT, Sales Dept, Marketing Manager, 3 years 1 month(Jan, 2017 ~ Feb, 2020)
