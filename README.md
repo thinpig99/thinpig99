@@ -18,9 +18,9 @@
   - Academy, **IoT Software Developer Course**, SMHRD, 3 months (Sep, 2016 ~ Nov, 2016)
 
 - 💬 Acomplishments:
-  - 3rd(0.7%), Jeju Credit Card Competition, Dacon, 2 months (June, 2020 ~ July, 2020)
+  - **3rd(0.7%)**, Jeju Credit Card Competition, Dacon, 2 months (June, 2020 ~ July, 2020)
   
-- 🤔 Skills: Python, SQL, Pandas, Keras, Scikit-learn, NLP, RecSys
+- 🤔 Skills: **Python**, **SQL**, **Pandas**, **Scikit-learn**, Keras, NLP, **RecSys**
 - ⚡ Interests: Contents, Retail, Travel
 - 📫 Contacts: thinpig99@gmail.com
 
