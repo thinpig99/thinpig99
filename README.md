@@ -20,6 +20,6 @@
 - 💬 Acomplishment:
   - **3rd(0.7%)**, Jeju Credit Card Competition, Dacon, 2 months (2020.06 ~ 2020.07)
   
-- 🤔 Skill: **Python**, **SQL**, **Pandas**, **Scikit-learn**, Keras, NLP, **RecSys**
-- ⚡ Interest: Contents, Retail, Travel
+- 🤔 Skill: **Python**, **MySQL**, **Pandas**, **Scikit-learn**, Keras, NLP, RecSys
+- ⚡ Industry: Contents, Retail, Travel
 - 📫 Contact: thinpig99@gmail.com
