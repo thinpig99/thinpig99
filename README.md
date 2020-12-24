@@ -21,5 +21,5 @@
   - **3rd(0.7%)**, Jeju Credit Card Competition, Dacon, 2 months (2020.06 ~ 2020.07)
   
 - 🤔 Skill Tag: **Time Series Analysis**, **Python**, **MySQL**, **Pandas**, **Keras**, **NLP**, **RecSys**
-- ⚡ Interested Industry: Contents, Retail, Travel, Telecom
+- ⚡ Interested Industry: Contents, Retail, Travel
 - 📫 Contact: thinpig99@gmail.com
