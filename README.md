@@ -11,7 +11,7 @@
   - LG U+, Personal Service Dept, **Channel Manager** (Intern), **2 months** (2016.07 ~ 2016.08)
 
 - 🌱 Education:
-  - Master's Degree, **Statistical Data Science**, Yonsei Graduate School of Information, 2 years (2020.03 ~ )
+  - Master's Degree, **Data Science**, Yonsei Graduate School of Information, 2 years (2020.03 ~ )
   - Bachelor's degree, **Communication**, Chonnam National University, 6 years 6 months (2009.03 ~ 2016.08)
 
 - 🌱 Training:
@@ -20,6 +20,6 @@
 - 💬 Acomplishment:
   - **3rd(0.7%)**, Jeju Credit Card Competition, Dacon, 2 months (2020.06 ~ 2020.07)
   
-- 🤔 Skill Tag: **Time Series Analysis**, **Python**, **MySQL**, **Pandas**, **Keras**, **NLP**, **RecSys**
+- 🤔 Skill Tag: **Python**, **Machine Learning**
 - ⚡ Interested Industry: Contents, Retail, Travel
 - 📫 Contact: thinpig99@gmail.com
