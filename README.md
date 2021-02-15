@@ -23,3 +23,4 @@
 - 🤔 Skill Tag: **Python**, **Machine Learning**
 - ⚡ Interested Industry: Contents, Retail, Travel
 - 📫 Contact: thinpig99@gmail.com
+
