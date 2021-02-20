@@ -20,7 +20,7 @@
 - 💬 Acomplishment:
   - **3rd(0.7%)**, Jeju Credit Card Competition, Dacon, 2 months (2020.06 ~ 2020.07)
   
-- 🤔 Skill Tag: Python, Machine Learning, SQL, 
+- 🤔 Skill Tag: Python, Machine Learning, SQL, Docker
 - ⚡ Interested Industry: Contents, Retail, Travel, Telecom
 - 📫 Contact: thinpig99@gmail.com
 
