@@ -1,4 +1,4 @@
-### 👋 Hi there, I am {Wyatt, Data Analyst}.
+### 👋 Hi there, I am {Wyatt: Data Analyst}.
 
 
 - 🔭 Profile:
@@ -20,7 +20,7 @@
 - 💬 Acomplishment:
   - **3rd(0.7%)**, Jeju Credit Card Competition, Dacon, 2 months (2020.06 ~ 2020.07)
   
-- 🤔 Skill Tag: Python, Machine Learning, SQL, Docker
+- 🤔 Skill Tag: Python, MachineLearning, PyTorch, MySQL, Docker
 - ⚡ Interested Industry: Contents, Retail, Travel, Telecom
 - 📫 Contact: thinpig99@gmail.com
 
