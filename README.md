@@ -20,7 +20,7 @@
 - 💬 Acomplishment:
   - **3rd(0.7%)**, Jeju Credit Card Competition, Dacon, 2 months (2020.06 ~ 2020.07)
   
-- 🤔 Skill Tag: Python, MachineLearning, PyTorch, MySQL, Docker, Linux
+- 🤔 Skill Tag: Python, ML, PyTorch, MySQL, Docker, Linux
 
 - 📫 Contact: thinpig99@gmail.com
 
