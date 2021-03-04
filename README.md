@@ -1,4 +1,4 @@
-### 👋 Hi there, I am {Wyatt: Data Analyst}.
+### 👋 Hi there, I am {Wyatt, Data Analyst}.
 
 
 - 🔭 Profile:
