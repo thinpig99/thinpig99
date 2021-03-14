@@ -1,7 +1,7 @@
 ### 👋 Hi there, I am {Wyatt, Data Analyst}.
 
 
-- 🔭 Interesting: AIX, e-Commerce, RecSys
+- 🔭 Interesting: **AIX, e-Commerce, RecSys**
   
 - 👯 Experience:
   - KT, Customer Dept, **Marketing Manager** (Full-Time), **3 years 1 month** (2017.01 ~ 2020.02)
