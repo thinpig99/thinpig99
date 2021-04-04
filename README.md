@@ -12,7 +12,9 @@
   - Bachelor's degree, **Communication**, Chonnam National University, 6 years 6 months (2009.03 ~ 2016.08)
 
 - ⚡ Training:
-  - Academy, **IoT Software Developer Course**, SMHRD, 3 months (2016.09 ~ 2016.11)
+  - **Recommender System Implementation Class**, Learning Spoons, 1 month (2020.08 ~ 2020.09)
+  - **Data Analytics Beginner Class**, DS SCHOOL, 1 month (2019.03 ~ 2019.04)
+  - **IoT Software Developer Course**, SMHRD, 3 months (2016.09 ~ 2016.11)
 
 - 💬 Acomplishment:
   - **3rd(0.7%)**, Jeju Credit Card Competition, Dacon, 2 months (2020.06 ~ 2020.07)
