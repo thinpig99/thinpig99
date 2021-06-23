@@ -23,7 +23,7 @@
 - 📝 Paper:
   - **An Analysis of Key Elements for FinTech Companies Based on Text Mining: From the User’s Review**. The Journal of Information Systems, 29(4), 137-151. (2020).
   
-- 🤔 Skill Tag: Python, pandas, sklearn, PyTorch, SQL
+- 🤔 Skill Tag: Python, pandas, sklearn, PyTorch, SQL, Tableau
 
 - 📫 Contact: thinpig99@gmail.com
 
