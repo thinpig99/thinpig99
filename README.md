@@ -1,7 +1,7 @@
 ### 👋 Hi there, I am {Wyatt, Data Analyst}.
 
 
-- 🔭 Interesting: **e-Commerce, Contents, Travel**
+- 🔭 Interesting: **e-Commerce, Contents, Travel, IT Service**
   
 - 👯 Experience:
   - KT, Customer Dept, **Marketing Manager** (Full-Time), **3 years 1 month** (2017.01 ~ 2020.02)
@@ -18,12 +18,13 @@
   - **IoT Software Developer Course**, SMHRD, 3 months (2016.09 ~ 2016.11)
 
 - 💬 Competition:
-  - **3rd(0.7%)**, Jeju Credit Card Competition, Dacon, 2 months (2020.06 ~ 2020.07)
+  - **3rd**, Power Usage Analytics Competition, Dacon, 2 months (2021.06 ~ 2020.07)
+  - **3rd(0.7%)**, Jeju Credit Card BigData Competition, Dacon, 2 months (2020.06 ~ 2020.07)
 
 - 📝 Paper:
   - **An Analysis of Key Elements for FinTech Companies Based on Text Mining: From the User’s Review**. The Journal of Information Systems, 29(4), 137-151. (2020).
   
-- 🤔 Skill Tag: Python, pandas, sklearn, PyTorch, SQL, Tableau
+- 🤔 Skill Tag: Python, pandas, sklearn, Oracle, SQL Server, MariaDB, Tableau
 
 - 📫 Contact: thinpig99@gmail.com
 
