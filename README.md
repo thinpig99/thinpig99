@@ -17,7 +17,7 @@
   - **Data Analytics Beginner Class**, DS SCHOOL, 1 month (2019.03 ~ 2019.04)
   - **IoT Software Developer Course**, SMHRD, 3 months (2016.09 ~ 2016.11)
 
-- 💬 Competition:
+- 💬 Prize:
   - **3rd**, Power Usage Analytics Competition, Dacon, 2 months (2021.06 ~ 2020.07)
   - **3rd(0.7%)**, Jeju Credit Card BigData Competition, Dacon, 2 months (2020.06 ~ 2020.07)
 
