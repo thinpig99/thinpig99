@@ -13,7 +13,6 @@
 
 - 📝 Training:
   - **Data Visualization with Tableau**, Learning Spoons, 1 month (2021.05 ~ 2020.06)
-  - **Recommender System Implementation Class**, Learning Spoons, 1 month (2020.08 ~ 2020.09)
   - **Data Analytics Beginner Class**, DS SCHOOL, 1 month (2019.03 ~ 2019.04)
   - **IoT Software Developer Course**, SMHRD, 3 months (2016.09 ~ 2016.11)
 
