@@ -18,7 +18,7 @@
 
 - 🏆 Prize:
   - **3rd**, Power Usage Analytics Competition, Dacon, 2 months (2021.06 ~ 2020.07)
-  - **3rd(0.7%)**, Jeju Credit Card BigData Competition, Dacon, 2 months (2020.06 ~ 2020.07)
+  - **3rd**, Jeju Credit Card BigData Competition, Dacon, 2 months (2020.06 ~ 2020.07)
 
 - 📊 Paper:
   - **An Analysis of Key Elements for FinTech Companies Based on Text Mining: From the User’s Review**. The Journal of Information Systems, 29(4), 137-151. (2020).
