@@ -17,7 +17,7 @@
   - **IoT Software Developer Course**, SMHRD, 3 months (2016.09 ~ 2016.11)
 
 - 🏆 Prize:
-  - **1st**, 2021 Big Data Platform Competition, Dacon, 2021.08
+  - **1st**, 2021 Big Data Telecom Platform Competition, Dacon, 2021.08
   - **3rd**, Power Usage Analytics Competition, Dacon, 2021.07
   - **3rd**, Jeju Credit Card BigData Competition, Dacon, 2020.07
 
