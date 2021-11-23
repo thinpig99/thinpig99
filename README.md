@@ -1,9 +1,10 @@
 ### 👋 Hi there, I am 👨🏻‍💼{Wyatt, Data Analyst}.
 
 
-- 🎯 Interesting: **e-Commerce, Contents, Travel, IT Service**
+- 🎯 Interesting: **e-Commerce, Contents, Travel, Telecomm**
   
 - 💼 Experience:
+  - LG U+, CDO Dept, **DX Management** (Full-Time), **Present** (2021.11 ~ )
   - KT, Customer Dept, **Marketing Manager** (Full-Time), **3 years 1 month** (2017.01 ~ 2020.02)
   - LG U+, Personal Service Dept, **Channel Manager** (Intern), **2 months** (2016.07 ~ 2016.08)
 
