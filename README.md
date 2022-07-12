@@ -9,7 +9,7 @@
   - LG U+, Personal Service Dept, **Channel Manager** (Intern), **2 months** (2016.07 ~ 2016.08)
 
 - 🎒 Education:
-  - Master's Degree, **Individual Convergence; Data Analytics**, Yonsei Graduate School of Information, 2 years (2020.03 ~ )
+  - Master's Degree, **Individual Convergence; Data Analytics**, Yonsei Graduate School of Information, 2 years (2020.03 ~ 2022.02)
   - Bachelor's degree, **Communication**, Chonnam National University, 6 years 6 months (2009.03 ~ 2016.08)
 
 - 📝 Training:
